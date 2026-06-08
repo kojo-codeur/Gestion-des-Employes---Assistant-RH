@@ -46,4 +46,4 @@
 
 1. **Cloner le dépôt** :
    ```bash
-   git clone https://github.com/VOTRE_USERNAME/Gestion-des-Employes.git
+   git clone https://github.com/kojo-codeur/Gestion-des-Employes---Assistant-RH
