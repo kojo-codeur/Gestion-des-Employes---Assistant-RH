@@ -25,10 +25,15 @@
 
 ## 🖼️ Captures d'écran
 
-| Dashboard | Assistant IA |
-|-----------|---------------|
-|![Dashboard](docs/dashboard.png) | ![IA](docs/Screenshot_1.png) |
+| Dashboard |
+|-----------|
+|![Dashboard](docs/dashboard.png) |
 
+
+
+| Assistant IA |
+|------------------------|
+| ![IA](docs/Screenshot_1.png) |
 
 ## 📦 Prérequis
 
