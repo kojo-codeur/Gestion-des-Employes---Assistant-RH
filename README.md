@@ -27,7 +27,7 @@
 
 | Dashboard | Assistant IA |
 |-----------|---------------|
-|![Dashboard](docs/dashboard.png) | ![IA](docs/screenshot_1.png) |
+|![Dashboard](docs/dashboard.png) | ![IA](docs/Screenshot_1.png) |
 
 
 ## 📦 Prérequis
