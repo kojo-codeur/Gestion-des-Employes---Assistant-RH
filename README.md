@@ -27,12 +27,8 @@
 
 | Dashboard | Assistant IA |
 |-----------|---------------|
-|![Dashboard](docs/dashboard.png) | ![IA](docs/screenshot3.png) |
+|![Dashboard](docs/dashboard.png) | ![IA](docs/screenshot_1.png) |
 
-## 🎥 Vidéo de démonstration
-
-[![Vidéo démo]([https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/VIDEO_ID](https://www.youtube.com/watch?v=zinqMh-t5pM&t=8s)) 
-*(Remplacez VIDEO_ID par l'ID de votre vidéo YouTube)*
 
 ## 📦 Prérequis
 
