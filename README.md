@@ -8,7 +8,7 @@
 
 > Application de gestion des présences, alertes, congés et assistant IA intégré (Groq API).
 
-![Demo]("docs/gif application.gif")
+![Demo]("docs/application.gif")
 *Animation de l'interface utilisateur*
 
 ## 📌 Fonctionnalités
