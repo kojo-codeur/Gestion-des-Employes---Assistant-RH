@@ -25,9 +25,9 @@
 
 ## 🖼️ Captures d'écran
 
-| Connexion | Dashboard | Assistant IA |
-|-----------|-----------|---------------|
-| ![Connexion](docs/screenshot1.png) | ![Dashboard](docs/screenshot2.png) | ![IA](docs/screenshot3.png) |
+| Dashboard | Assistant IA |
+|-----------|---------------|
+|![Dashboard](docs/dashboard.png) | ![IA](docs/screenshot3.png) |
 
 ## 🎥 Vidéo de démonstration
 
